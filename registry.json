@@ -1,0 +1,18 @@
+{
+  "version": "1",
+  "plugins": [
+    {
+      "id": "vicarious",
+      "name": "Vicarious",
+      "description": "Live challenge game mode. Group admins activate a session, members drop challenge pins, and a public link lets anyone join as a guest. Built-in acquisition funnel for growing your group.",
+      "author": "SinCuri0",
+      "repo": "https://github.com/SinCuri0/parklife",
+      "plugin_path": "src/plugins/vicarious",
+      "version": "0.1.0",
+      "parklife_version_min": "0.1.0",
+      "tags": ["game", "live", "engagement"],
+      "requires_migrations": true,
+      "official": true
+    }
+  ]
+}
